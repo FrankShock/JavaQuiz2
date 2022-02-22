@@ -1,0 +1,33 @@
+#backg {
+    background-color: blue;
+}
+header {
+    padding: 50px;
+}
+.timer {
+    align: center;
+}
+.module {
+    background-color: grey;
+    width: 50%;
+    margin: 100px auto;
+}
+main{
+    text-align: center;
+}
+
+.answer{
+    color: rgb(170, 7, 7);
+    border-bottom: 3px rgb(15, 15, 15) solid;
+    font-size: 20px;
+    padding-top: 60px;
+}
+
+.button, .choiceanswer {
+    color: rgb(43, 31, 218);
+    background-color: rgb(12, 160, 44);
+    padding: 8px;
+    margin: 8px auto;
+    width: 100px;
+    border-radius: 10px;
+}
